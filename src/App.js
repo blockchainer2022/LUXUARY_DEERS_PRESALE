@@ -235,8 +235,8 @@ const App = () => {
       <InformationModal
         open={saleLive}
         onClose={setSaleLive}
-        title=" Sale is not live"
-        text="Sale is not live yet. Please follow our discord for the updates"
+        title=" PreSale is not live"
+        text="PreSale is not live yet. Please follow our discord for the updates"
       />
       <InformationModal
         open={lessMintAmountAlert}
